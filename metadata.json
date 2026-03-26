@@ -1,0 +1,5 @@
+{
+  "name": "CP Judge AI",
+  "description": "A competitive programming practice tool with AI-generated test cases and integrated code execution via Judge0.",
+  "requestFramePermissions": []
+}
